@@ -1,6 +1,10 @@
+
 numpy
 pandas
 scipy
-sklearn
-clustergrammer_widget
+scikit-learn
 ipywidgets
+matplotlib
+pyarrow
+bqplot==0.11.2
+clustergrammer2==0.5.9
